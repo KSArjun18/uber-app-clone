@@ -107,6 +107,7 @@ const SignUp=()=>{
             onPress={onSignUpPress}
             className="mt-6"
           />
+          {/* test */}
           <OAuth />
                     <Link
             href="/sign-in"
